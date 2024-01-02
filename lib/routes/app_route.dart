@@ -11,4 +11,6 @@ class AppRoute {
   static String registerAddPhone = "/register/add-phone";
   static String registerVerifyEmail = "/register/verify-email";
   static String registerSuccess = "/register/success";
+
+  static String home = "/home";
 }
