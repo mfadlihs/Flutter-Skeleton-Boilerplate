@@ -14,10 +14,6 @@ void main() {
 class MainApp extends StatelessWidget {
   const MainApp({super.key});
 
-  Future<bool> a() async {
-    return true;
-  }
-
   @override
   Widget build(BuildContext context) {
     return ScreenUtilInit(
