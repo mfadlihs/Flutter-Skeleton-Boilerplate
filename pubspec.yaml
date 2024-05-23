@@ -30,3 +30,13 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/
+    - assets/icons/
+    
+    # Fonts
+    - assets/fonts/Poppins/
+
+    - .env
